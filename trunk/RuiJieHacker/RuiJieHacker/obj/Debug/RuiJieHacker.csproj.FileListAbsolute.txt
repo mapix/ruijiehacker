@@ -1,0 +1,16 @@
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\bin\Debug\RuiJieHacker.exe
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\bin\Debug\RuiJieHacker.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\ResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.Properties.Resources.resources
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.csproj.GenerateResource.Cache
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.exe
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2008\Projects\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.MainForm.resources
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\ResolveAssemblyReference.cache
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.MainForm.resources
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.Properties.Resources.resources
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.csproj.GenerateResource.Cache
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\bin\Debug\RuiJieHacker.exe
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\bin\Debug\RuiJieHacker.pdb
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.exe
+F:\ruijiehacker\RuiJieHacker\RuiJieHacker\obj\Debug\RuiJieHacker.pdb

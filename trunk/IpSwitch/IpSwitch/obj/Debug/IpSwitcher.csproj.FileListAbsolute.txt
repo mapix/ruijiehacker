@@ -1,0 +1,15 @@
+F:\ruijiehacker\IpSwitch\IpSwitch\bin\Debug\IpSwitch.exe
+F:\ruijiehacker\IpSwitch\IpSwitch\bin\Debug\IpSwitch.pdb
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\ResolveAssemblyReference.cache
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitcher.MainForm.resources
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitch.Properties.Resources.resources
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitcher.csproj.GenerateResource.Cache
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitch.exe
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitch.pdb
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\Interop.NATUPNPLib.dll
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\Interop.NETCONLib.dll
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\Interop.NetFwTypeLib.dll
+F:\ruijiehacker\IpSwitch\IpSwitch\obj\Debug\IpSwitcher.csproj.ResolveComReference.cache
+F:\ruijiehacker\IpSwitch\IpSwitch\bin\Debug\Interop.NATUPNPLib.dll
+F:\ruijiehacker\IpSwitch\IpSwitch\bin\Debug\Interop.NETCONLib.dll
+F:\ruijiehacker\IpSwitch\IpSwitch\bin\Debug\Interop.NetFwTypeLib.dll
