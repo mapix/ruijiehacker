@@ -1,0 +1,1 @@
+ruijiehacker 项目由 清尘浊水 在2011-4-21日发起，并开始创建了可用的windows版本，和三个linux版本的开源程序。作者于2011-4-25日将项目迁移到Google Code,将工程等以GNU GPL v3协议发布。
